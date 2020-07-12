@@ -1,0 +1,6 @@
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ToolExtractor\ToolExtractor\bin\Debug\ToolExtractor.exe.config
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ToolExtractor\ToolExtractor\bin\Debug\ToolExtractor.exe
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ToolExtractor\ToolExtractor\bin\Debug\ToolExtractor.pdb
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ToolExtractor\ToolExtractor\obj\Debug\ToolExtractor.csprojAssemblyReference.cache
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ToolExtractor\ToolExtractor\obj\Debug\ToolExtractor.exe
+C:\Users\Gyure Balint\Documents\MyOwn\EDT\ToolExtractor\ToolExtractor\obj\Debug\ToolExtractor.pdb
