@@ -1,4 +1,4 @@
-# ToolExtractor
+# ToolExtractor - Console application
 
 This console application when running, it copies all the necessary files into the correct folder so the Autodesk Inventor software can be updated automatically without the designers help, 
 therefore eliminating any human error.
